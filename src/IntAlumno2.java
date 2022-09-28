@@ -1,0 +1,5 @@
+public interface IntAlumno2 {
+
+
+
+}
