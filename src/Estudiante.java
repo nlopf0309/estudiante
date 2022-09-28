@@ -21,7 +21,7 @@ public class Estudiante extends Persona implements IntAlumno,IntAlumno2{
         System.out.println("El curso es: "+ curso);
     }
     public void verNocuenta(){
-        System.out.println("El número de cuenta es: "+ nocuenta );
+        System.out.println("El n de cuenta es: "+ nocuenta );
 
     }
 
